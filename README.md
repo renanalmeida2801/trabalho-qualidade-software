@@ -1,12 +1,12 @@
 # trabalho-qualidade-software
 
-#Dupla:
+# Dupla:
 * Elpidio Viana Cabral Neto
 * Renan Victor de Almeida Silva
 
-#Projeto:
+# Projeto:
 * Superset
 
-#Code Smells
+# Code Smells
 * JSX Outside The Render Method
 * Missing Union Types Abstraction
